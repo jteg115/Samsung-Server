@@ -5,7 +5,7 @@ from twisted.internet import reactor
 import socket
 import base64
 
-src     = '192.168.1.XXX'       # ip of remote
+src     = '192.168.1.XXX'     # ip of remote
 mac     = '00-AB-11-11-11-11' # mac of remote
 remote  = 'python remote'     # remote name
 dst     = '192.168.1.XXX'     # ip of tv
